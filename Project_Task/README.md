@@ -15,7 +15,7 @@ Swagger UI shows all available API endpoints.
 ## Create the Product
 A new product is created using Postman.
 
-!(images/02.jpg)
+!(images/02.jpg).
 
 ---
 
