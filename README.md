@@ -10,10 +10,10 @@ Inside each README file, there is:
 
 ## Project Task 
 
-Project Task 2 is a REST API built with Spring Boot.
+Project Task is a REST API built with Spring Boot.
 It supports CRUD operations for products and uses an H2 in-memory database.
 
-The README file inside the Project_Task2 folder includes:
+The README file inside the Project_Task folder includes:
 - a short explanation of the REST API
 - screenshots of all use cases tested with Postman and Swagger
 - screenshots of the H2 database console
