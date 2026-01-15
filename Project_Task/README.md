@@ -8,35 +8,35 @@ All endpoints were tested using Postman and Swagger UI.
 ## Swagger UI
 Swagger UI shows all available API endpoints.
 
-![Swagger UI](01.jpg)
+!(01.jpg)
 
 ---
 
 ## Create the Product
 A new product is created using Postman.
 
-![Create Product](02.jpg)
+!(02.jpg)
 
 ---
 
 ## Get the Product by ID 
 A product is successfully retrieved by its ID.
 
-![Get Product](03.jpg)
+!(03.jpg)
 
 ---
 
 ## Get the Product by ID
 An error message is returned when the product does not exist.
 
-![Product Not Found](04.jpg)
+!(04.jpg)
 
 ---
 
 ## Get All the Products
 All products are returned as a list.
 
-![Get All Products](05.jpg)
+!(05.jpg)
 
 ---
 
@@ -50,14 +50,14 @@ An existing product is updated.
 ## Delete the Product
 A product is deleted by its ID.
 
-![Delete Product](07.jpg)
+!(07.jpg)
 
 ---
 
 ## After the Delete
 The product is no longer available after deletion.
 
-![After Delete](08.jpg)
+!(08.jpg)
 
 ---
 
@@ -70,4 +70,4 @@ To verify that the operations affected the database correctly, the following SQL
 SELECT * FROM PRODUCTS;
 ```
 
-![Database View](09.jpg)
+!(09.jpg)
