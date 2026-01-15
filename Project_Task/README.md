@@ -8,7 +8,7 @@ All endpoints were tested using Postman and Swagger UI.
 ## Swagger UI
 Swagger UI shows all available API endpoints.
 
-!(images/01.jpg)
+![images/01.jpg]
 
 ---
 
